@@ -4,3 +4,4 @@ this is the use of new project
 I want to complete this project as early as possible.
 now i am connecting to the people to my team.
 namste tatagit add
+Remember, the power of branching comes from a safe place to make changes, and the power to review and test in pull requests. When you decide your branching expectations as a team, keep it lightweight and easy to learn. Focus on collaboration.
